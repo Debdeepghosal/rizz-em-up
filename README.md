@@ -37,6 +37,7 @@ Riz-em-up is a fun and interactive project that utilizes LLava Vision model and 
 
 3. Receive a customized compliment or pick-up line based on the content of the image.
 
+![Screenshot from 2024-03-02 21-49-59](https://github.com/Debdeepghosal/rizz-em-up/assets/99573906/b2abe3d2-a1be-4e22-a69f-359949e7d632)
 
 ## Contributing 🤝
 
